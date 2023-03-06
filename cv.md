@@ -1,4 +1,4 @@
-# Anna Shamrai
+# Anna Shamrai ![Foto](/FotoForCV.jpg "Foto for CV")
 
 -----
 
@@ -31,7 +31,7 @@ Basic _**HTML**_ and _**CSS**_
 ## Experience
 No work experience yet. I'm _**studying**_.
 
-My first project: <https://AnnaShamrai.github.io/rsschool-cv/cv>
+My first project: <https://AnnaShamrai.github.io/rsschool-cv/>
 
 ---
 ## Education
